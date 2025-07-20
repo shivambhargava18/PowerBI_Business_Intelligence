@@ -2,8 +2,6 @@
 
 An end-to-end **Business Intelligence project** developed in Power BI, analyzing over 100K+ records of sales, returns, and customer data from a simulated global retailer – Adventure Works.
 
-🔗 **Project File**: [`Adventure works report.pbix`](./Adventure%20works%20report.pbix)
-
 ---
 
 ## 🧩 Project Overview
